@@ -1,11 +1,15 @@
 <scheme name="Bright and Sheen VSCode Theme" version="142" parent_scheme="Darcula">
+    <option name="FONT_SCALE" value="1.0" />
     <metaInfo>
-        <property name="created">2021-02-25T15:31:55</property>
+        <property name="created">2021-02-28T12:27:35</property>
         <property name="ide">Idea</property>
         <property name="ideVersion">2020.3.1.0.0</property>
-        <property name="modified">2021-02-25T15:32:02</property>
+        <property name="modified">2021-02-28T12:27:44</property>
         <property name="originalScheme">_@user_Bright and Sheen VSCode Theme</property>
     </metaInfo>
+    <option name="LINE_SPACING" value="1.2" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
     <colors>
         <option name="ADDED_LINES_COLOR" value="445d63" />
         <option name="CARET_COLOR" value="ffffff" />
@@ -41,7 +45,7 @@
         <option name="RIGHT_MARGIN_COLOR" value="2e3c43" />
         <option name="SELECTED_INDENT_GUIDE" value="" />
         <option name="SELECTED_TEARLINE_COLOR" value="90c9d9" />
-        <option name="SELECTION_BACKGROUND" value="58666d" />
+        <option name="SELECTION_BACKGROUND" value="3c4041" />
         <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
         <option name="TAB_UNDERLINE" value="be2d27" />
         <option name="TEARLINE_COLOR" value="506d73" />
