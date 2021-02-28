@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>sheendevelops</id>
   <name>Bright and Sheen Theme</name>
-  <version>1.3</version>
+  <version>1.4</version>
   <vendor email="sheendevelops@gmail.com" url="http://www.plugin.sheenweb.fun">SheenPlugin</vendor>
 
   <description><![CDATA[
@@ -36,6 +36,8 @@
 
   <change-notes><![CDATA[
   <p style='font-size:9px;'>
+      Version 1.4 - Font size, screenshots and background color
+      <br>
       Version 1.3 - XML, JSON and Code Diff
       <br>
       Version 1.2 - Plugin version Update
